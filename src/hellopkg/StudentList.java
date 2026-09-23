@@ -9,7 +9,6 @@ package hellopkg;
  * This comment has been added to show push to remote repo
  * @author John
  * This is a change for testing
- * Testing
  */
 public class StudentList {
     public static void main(String[] args){
